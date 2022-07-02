@@ -1,5 +1,5 @@
 # Quoter
 
-[Random](/assets/random.png)
+[Random](/public/random.png)
 
-[Specific](/assets/specific.png)
+[Specific](/public/specific.png)
